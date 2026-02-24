@@ -1,2 +1,3 @@
 # zhongyizhinengfuzhu-0818
 中医智能辅助诊疗系统代码
+系统采用VUE3+SpringBoot框架创建，vue3文件夹中是前端代码，springboot文件夹中是后端代码
